@@ -6,5 +6,5 @@ Folium essentially is used for generating interactive maps for the browser (insi
 
 This is a python code that visualizes the australian wildfires using Folium. Run the code inside a jupyter notebook
 
-Output:
-<img src = ""> </img>
+Output:<br>
+<img src = "https://github.com/slavvy-coelho/Folium-wildifires/blob/master/Screen-Recording-2020-08-22-at-1.gif"> </img>
